@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: Hello world!</title>
-	<atom:link href="/opalspherestatic/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/opalspherestatic/hello-world/</link>
+	<atom:link href="/opalsphere/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/opalsphere/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 13 Nov 2018 19:07:50 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,10 +16,10 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>By: A WordPress Commenter</title>
-		<link>/opalspherestatic/hello-world/#comment-1</link>
+		<link>/opalsphere/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2018 19:07:50 +0000</pubDate>
-		<guid isPermaLink="false">/opalspherestatic/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/opalsphere/?p=1#comment-1</guid>
 		<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
